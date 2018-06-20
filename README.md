@@ -6,4 +6,4 @@
 
 基本架构图：
 
-![pics/s1.png](sys)
+![sys](pics/s1.png)
